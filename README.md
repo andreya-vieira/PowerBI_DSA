@@ -18,7 +18,7 @@
 
 <p align="justify">
 
-Realização do curso para aprendizado e aperfeiciomento na Ferramenta.
+Realização do curso para aprendizado e aperfeiçoamento na Ferramenta.
   
   ### Contéudo aprendido
 - Business Intelligence no Power BI
@@ -28,6 +28,10 @@ Realização do curso para aprendizado e aperfeiciomento na Ferramenta.
 - Limpeza, Transformação, Séries Temporais, Agregação e Filtros
 
 - Gráficos e Mapas
+
+- Dashboard Interativos
+
+- Power BI Mobile
 
 </p>
 
